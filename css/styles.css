@@ -24,6 +24,10 @@ p::first-letter {
     color: #423026;
 }
 
+#customAdvice {
+	padding: 1.7%;
+}
+
 button {
 	font-family: 'Cinzel Decorative', cursive;
 	font-size: 2vw;
